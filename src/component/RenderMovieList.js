@@ -19,7 +19,7 @@ export default class RenderMovieList extends Component {
             <div className="card-body">
               <h4
                 className="card-title text-dark"
-                style={{ fontSize: "18px", height: "50px" }}
+                style={{ fontSize: "20px", height: "50px" }}
               >
                 {movie.movieName}
               </h4>
